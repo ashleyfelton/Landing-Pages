@@ -1,2 +1,2 @@
-# Landing-Pages
-Different landing pages that contains different styles and components 
+# SheCodes Project
+My first ever landing page that was created in my front end workshop
